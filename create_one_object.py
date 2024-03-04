@@ -4,4 +4,4 @@ from create_one_attribute import Person
 class Person:
     def __init__(self,name) -> None:
         self.name=name
-        
+Ali=Person()        
